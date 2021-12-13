@@ -8,9 +8,7 @@ Front/Back-end Developer
 
 <div align="center">
   <a href="https://github.com/GuilhermeMalachias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMalachias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMalachias&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMalachias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMalachias&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ## Technologies and Experiences
