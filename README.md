@@ -4,7 +4,7 @@
 
 About Me
 ---
-Full stack Developer
+- Full stack Developer
 
 <div align="center">
   <a href="https://github.com/GuilhermeMalachias">
