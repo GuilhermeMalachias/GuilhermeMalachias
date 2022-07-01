@@ -4,7 +4,7 @@
 
 About Me
 ---
-- Full stack Developer
+- Back-end developer
 
 <div align="center">
   <a href="https://github.com/GuilhermeMalachias">
