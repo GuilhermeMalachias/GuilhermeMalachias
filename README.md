@@ -2,9 +2,9 @@
 
 💻 I am a Developer and an information security student
 
-About Me
+<!-- About Me -->
 ---
-- Back-end developer
+<!-- - Back-end developer-->
 
 <div align="center">
   <a href="https://github.com/GuilhermeMalachias">
