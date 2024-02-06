@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme 👋
 
-💻 I am a Developer and an information security student
+💻 Stats and progress
 
 <!-- About Me -->
 ---
