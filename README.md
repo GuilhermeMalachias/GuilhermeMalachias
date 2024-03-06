@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme 👋
 
-💻 Stats and progress
+💻 Stats and experiences
 
 <!-- About Me -->
 ---
