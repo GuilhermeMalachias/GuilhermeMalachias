@@ -1,9 +1,8 @@
 # Hi, I'm Guilherme 👋
 
-💻 Stats and experiences
+💻 My stats
 
 <!-- About Me -->
----
 <!-- - Back-end developer-->
 
 <div align="center">
